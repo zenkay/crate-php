@@ -1,0 +1,7 @@
+{
+    "name": "zenkay/crate-php",
+    "description": "PHP adapter to query a Crate Data cluster using SQL",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
